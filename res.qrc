@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Connect.png</file>
+        <file>EnterButton.qml</file>
+        <file>ErrorButton.qml</file>
+        <file>Settings.qml</file>
+    </qresource>
+</RCC>
